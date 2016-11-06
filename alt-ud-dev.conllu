@@ -1,7 +1,7 @@
 #ID: 1 @ https://incubator.wikimedia.org/wiki/Wp/alt/%D0%A7%D0%B5%D0%BC%D0%B0%D0%BB_%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA
 1	Чемал	Чемал	PROPN	np	_	2	compound	_	_
 2	аймак	аймак	NOUN	n	_	7	nsubj	_	_
-3	—	—	PUNCT	guio	2	punct	_	_
+3	—	—	PUNCT	guio	_	2	punct	_	_
 4	Алтай	Алтай	PROPN	np	_	5	compound	_	_
 5	республикада	республика	PROPN	np	_	7	nmod	_	_
 6	муниципал	муниципал	NOUN	n	_	7	nsubj	_	_
